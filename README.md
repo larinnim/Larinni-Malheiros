@@ -1,9 +1,12 @@
-### Hi there 👋,  
 ![alt text](https://user-images.githubusercontent.com/26446863/160886535-4d77ac18-f5bc-4261-8826-53759b876104.png)
 
 I'm Larinni from Brazil living in Canada for the past 4 years. I really enjoy learning CI/CD tools (Jenkins, AWS Codebuild), development methodologies such as Agile and frameworks like React, Laravel and Flutter.  
 
-Skills: Flutter / REACT / Typescript / JS / HTML / CSS 
+## Skils and Expirience 
+📲 Flutter 
+💻 REACT / Typescript / JS / HTML / CSS 
+
+## Examples of Work
 
 - 🔭 I’m currently working on an IoT app project 
 - 🌱 I’m currently learning AWS and Azure DevOps 

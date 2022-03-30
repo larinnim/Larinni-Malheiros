@@ -6,9 +6,6 @@ I'm Larinni from Brazil living in Canada for the past 4 years. I really enjoy le
 📲 Flutter 
 💻 REACT / Typescript / JS / HTML / CSS 
 
-## Examples of Work
-![alt text](https://user-images.githubusercontent.com/26446863/160888552-29801bd7-2896-4fcc-94d1-9f7c4eea0aac.png)
-
 - 🔭 I’m currently working on an IoT app project 
 - 🌱 I’m currently learning AWS and Azure DevOps 
 

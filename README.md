@@ -1,5 +1,5 @@
 ### Hi there 👋,  
-![](https://www.canva.com/design/DAE8eHUuoZg/xzHtvuw1nbcYhFpCXMHuAA/view?utm_content=DAE8eHUuoZg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![alt text](https://www.canva.com/design/DAE8eHUuoZg/xzHtvuw1nbcYhFpCXMHuAA/view?utm_content=DAE8eHUuoZg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 I'm Larinni from Brazil living in Canada for the past 4 years. I really enjoy learning CI/CD tools (Jenkins, AWS Codebuild), development methodologies such as Agile and frameworks like React, Laravel and Flutter.  
 
